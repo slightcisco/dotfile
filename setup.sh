@@ -1,3 +1,3 @@
-mv ./init.vim ~/.config/nvim/
-mv ./bashrc ~/.bashrc
+cp ./init.vim ~/.config/nvim/
+cp ./bashrc ~/.bashrc
 
