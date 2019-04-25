@@ -46,6 +46,7 @@ Plug 'metakirby5/codi.vim'
 Plug 'dkarter/bullets.vim'
 Plug 'w0rp/ale'
 Plug 'Valloric/YouCompleteMe'
+Plug 'momota/cisco.vim'
 
 " Entertainment
 " Plug 'ryanss/vim-hackernews'
@@ -240,4 +241,3 @@ autocmd FileType python nmap <leader>x :0,$!~/.config/nvim/env/bin/python -m yap
 "nmap <leader>n :HackerNews best<CR>J
 nmap <silent> <leader><leader> :noh<CR>
 nmap <Tab> :bnext<CR>
-
